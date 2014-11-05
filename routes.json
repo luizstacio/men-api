@@ -1,0 +1,4 @@
+[{
+  "url": "/api/users",
+  "path": "./modules/users/routes"
+}]

@@ -1,0 +1,37 @@
+{
+  "name": "men-api",
+  "version": "0.0.1",
+  "description": "men-api",
+  "main": "./bin/www",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "mongoose": "^3.8.13"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-replace": "^0.4.0",
+    "gulp-json-editor": "^2.1.1",
+    "minimist": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luizstacio/men-api.git"
+  },
+  "author": "Luiz H. Estácio (luizstacio)",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "api",
+    "mean",
+    "men",
+    "men-api",
+    "mongodb"
+  ]
+}
