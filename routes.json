@@ -1,7 +1,4 @@
 [{
   "url": "/api/users",
   "path": "./modules/users/routes"
-}, {
-  "url": "/api/alunos",
-  "path": "./modules/alunos/routes"
 }]
